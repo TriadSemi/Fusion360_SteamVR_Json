@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"5239fddc-4ddd-403c-8b97-704a90e0046c",
+	"author":	"Luke Beno",
+	"description":	{
+		"":	"Tools for creating SteamVR tracked object JSON Files in Fusion360."
+	},
+	"version":	"0.1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows",
+	"editEnabled":	true
+}
