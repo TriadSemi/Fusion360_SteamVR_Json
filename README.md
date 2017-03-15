@@ -11,7 +11,7 @@ A Fusion360 add-in for generating SteamVR Tracking JSON files from 3D CAD Data
 This script will generate a steamVR sensor definintion JSON file based on ConstructionPoints and ConstructionAxes that are added to a solid model.
 
 For example, consider the following 3D model for the HTC Vive Tracker:
-![Picture of Tracker Model in Fusion360](images/step0.jpg?raw=true "Tracker Model")
+![Picture of Tracker Model in Fusion360](images/step0.JPG?raw=true "Tracker Model")
 
 If we wanted to generate a JSON file for one sensor location, we would do the following:
 1) Select CONSTRUCT>Point at Center of Circle/Sphere/Torus
